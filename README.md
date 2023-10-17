@@ -3,7 +3,7 @@
 ### Задача №2
 
 Как запустить:
-- g++ -Wall -o infection infection.cpp
+- g++ -std=c++20 -Wall -o infection infection.cpp
 - ./infection
 - Вводим данные в терминал как показано в условии задачи.
 
